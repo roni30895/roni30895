@@ -1,8 +1,8 @@
-# Rohan Pawar - Python Developer | AI Enthusiast 🌟
+# Rohan Pawar - Backend Developer | Python Developer | Golang Developer |AI Enthusiast 🌟
 
 # Hi there, I'm Rohan Pawar 👋
 
-I'm a passionate **Python Developer** with over 2 years of experience in creating scalable, cloud-native solutions and building high-performance applications. With expertise in **Python**, **Golang**, and DevOps tools, I specialize in developing microservices, automating workflows, and integrating cutting-edge technologies into impactful projects.
+I'm a passionate **Backend Developer** with over 2 years of experience in creating scalable, cloud-native solutions and building high-performance applications. With expertise in **Python**, **Golang**, and DevOps tools, I specialize in developing microservices, automating workflows, and integrating cutting-edge technologies into impactful projects.
 
 ---
 
